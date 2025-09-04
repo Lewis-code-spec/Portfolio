@@ -1,0 +1,59 @@
+﻿@inject IJSRuntime JS
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top shadow-sm">
+    <div class="container-fluid align-items-center">
+        <a class="navbar-brand fw-bold" href="javascript:void(0)" @onclick="ScrollToHero">Lewis Paine Portfolio</a>
+
+        <button class="navbar-toggler" type="button" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse @(collapseNavMenu ? "" : "show")">
+            <ul class="navbar-nav ms-auto align-items-center">
+                <li class="nav-item">
+                    <a class="nav-link fw-semibold" href="javascript:void(0)" @onclick="ScrollToHero">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link fw-semibold" href="javascript:void(0)" @onclick="ScrollToProjects">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link fw-semibold" href="javascript:void(0)" @onclick="ScrollToAbout">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link fw-semibold" href="javascript:void(0)" @onclick="ScrollToCurrentOccupation">Current Occupation</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link fw-semibold" href="javascript:void(0)" @onclick="ScrollToFreelance">Freelancing</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link fw-semibold" href="javascript:void(0)" @onclick="ScrollToContact">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+
+    private async Task ScrollToHero() => await ScrollToSection("hero");
+    private async Task ScrollToProjects() => await ScrollToSection("projects");
+    private async Task ScrollToAbout() => await ScrollToSection("about");
+    private async Task ScrollToCurrentOccupation() => await ScrollToSection("currentOccupation");
+    private async Task ScrollToFreelance() => await ScrollToSection("freelance");
+    private async Task ScrollToContact() => await ScrollToSection("contact");
+
+    private async Task ScrollToSection(string id)
+    {
+        await JS.InvokeVoidAsync("scrollToSection", id);
+
+        // Close the mobile menu if open
+        collapseNavMenu = true;
+        StateHasChanged(); // Ensures the UI updates immediately
+    }
+}

@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dazze\\source\\repos\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010193F7-44C9-42BE-B3A6-5DF36FB2E5FC}|MyPortfolio.Api\\Portfolio.Api.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\myportfolio.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010193F7-44C9-42BE-B3A6-5DF36FB2E5FC}|MyPortfolio.Api\\Portfolio.Api.csproj|solutionrelative:myportfolio.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010193F7-44C9-42BE-B3A6-5DF36FB2E5FC}|MyPortfolio.Api\\Portfolio.Api.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\myportfolio.api\\portfolio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{010193F7-44C9-42BE-B3A6-5DF36FB2E5FC}|MyPortfolio.Api\\Portfolio.Api.csproj|solutionrelative:myportfolio.api\\portfolio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\wwwroot\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\wwwroot\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\models\\contactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\models\\contactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T19:23:32.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.razor",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Contact.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\Contact.razor",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Contact.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Pages\\Contact.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T19:23:31.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.razor",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\About.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\About.razor",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\About.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Pages\\About.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T19:23:28.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAK4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T19:38:36.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Portfolio.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\MyPortfolio.Api\\Portfolio.Api.csproj",
+              "RelativeDocumentMoniker": "MyPortfolio.Api\\Portfolio.Api.csproj",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\MyPortfolio.Api\\Portfolio.Api.csproj",
+              "RelativeToolTip": "MyPortfolio.Api\\Portfolio.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T19:42:44.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\MyPortfolio.Api\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio.Api\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\MyPortfolio.Api\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "MyPortfolio.Api\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:13:49.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "scripts.js",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\scripts.js",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\wwwroot\\scripts.js",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\scripts.js",
+              "RelativeToolTip": "Portfolio\\Portfolio\\wwwroot\\scripts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-16T19:58:02.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\app.css",
+              "RelativeToolTip": "Portfolio\\Portfolio\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-16T19:49:43.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.razor.css",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Home.razor.css",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor.css",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Home.razor.css",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-16T19:49:26.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T19:48:08.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T19:48:07.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\appsettings.json",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\appsettings.json",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\appsettings.json",
+              "RelativeToolTip": "Portfolio\\Portfolio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T20:46:20.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\appsettings.Development.json",
+              "RelativeToolTip": "Portfolio\\Portfolio\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T20:46:19.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\App.razor",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T20:41:10.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Portfolio.csproj",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Portfolio.csproj",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Portfolio.csproj",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Portfolio.csproj",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Portfolio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T19:54:07.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T19:53:33.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContactRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Models\\ContactRequest.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Models\\ContactRequest.cs",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Models\\ContactRequest.cs",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Models\\ContactRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:36:55.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Program.cs",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Program.cs",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:25:17.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor.cs",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Home.razor.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor.cs",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Home.razor.cs",
+              "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:23:17.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

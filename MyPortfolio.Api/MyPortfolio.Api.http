@@ -1,0 +1,5 @@
+
+GET {{MyPortfolio.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

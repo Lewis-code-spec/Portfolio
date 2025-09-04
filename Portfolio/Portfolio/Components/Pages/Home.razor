@@ -1,0 +1,188 @@
+﻿@page "/"
+
+<section id="hero" class="hero text-white" style="background-color: #3a4a4f;">
+    <div class="container text-center">
+        <h1 class="h2 fw-bold">Hi, I'm Lewis Paine</h1>
+        <p class="lead text-light">
+            I'm a developer who builds clean, modern web apps using C#, .NET, and Blazor or React.
+        </p>
+    </div>
+</section>
+
+<section id="projects" class="projects-section py-5" style="background-color: #f4f1ee;">
+    <div class="container">
+        <h2 class="text-center fw-bold mb-5">Projects</h2>
+        <p class="text-center text-muted mb-4">I'd love to hear from you — whether it's about a project, collaboration, or just to say hello.</p>
+        <div class="row g-4">
+            <div class="col-md-6 col-lg-4">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">Placeholder Project One</h5>
+                        <p class="card-text">A short description of what this project does, technologies used, and what makes it cool.</p>
+                        <img src="https://picsum.photos/600/300?random=1" class="img-fluid project-img my-3" alt="Project One">
+                        <a href="#" class="btn btn-outline-primary mt-auto" target="_blank">View on GitHub</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">Placeholder Project Two</h5>
+                        <p class="card-text">Another example project with a quick overview of its purpose and stack.</p>
+                        <img src="https://picsum.photos/600/300?random=2" class="img-fluid project-img my-3" alt="Project Two">
+                        <a href="#" class="btn btn-outline-primary mt-auto" target="_blank">View on GitHub</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">Placeholder Project Three</h5>
+                        <p class="card-text">A third project that demonstrates something different or more advanced.</p>
+                        <img src="https://picsum.photos/600/300?random=3" class="img-fluid project-img my-3" alt="Project Three">
+                        <a href="#" class="btn btn-outline-primary mt-auto" target="_blank">View on GitHub</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="about" class="about-section py-5" style="background-color: #e8e3df;">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-5 text-center mb-4 mb-md-0">
+                <img src="https://via.placeholder.com/300x300?text=Your+Photo" class="img-fluid grayscale" alt="Your Photo">
+            </div>
+            <div class="col-md-7">
+                <h2 class="fw-bold mb-4">About Me</h2>
+                <p>I'm a passionate developer with experience in building scalable web applications using .NET, Blazor, and other modern technologies. I enjoy solving problems, learning new tools, and bringing ideas to life through code.</p>
+                <p>Outside of coding, I'm always exploring new things, working on DIY projects.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="currentOccupation" class="currentOccupation-section py-5" style="background-color: #f4f1ee;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-lg-8">
+                <h2 class="fw-bold mb-4">Current Occupation</h2>
+                <p>
+                    I’m currently working as a junior C# developer at Adaro Optics Ltd, a company that primarily offers a glasses subscription service and also processes contact lens orders.
+                </p>
+                <p>
+                    I initially joined the project as a support analyst but soon transitioned into a development role — an exciting next step in my IT career. Although I had no formal training in coding at the time, I embraced the challenge, and with persistence, things gradually started to click.
+                    Over the past two years, our team and I have developed a new in-store system for opticians, incorporating technologies such as Radzen, Identity, and microservices.
+                </p>
+                <p>
+                    Today, I contribute to most areas of the project, whether that’s maintaining our legacy Web Forms applications or writing API calls for our warehouse management systems.
+                </p>
+                <p>
+                    My experience in the support role gave me a deep understanding of our databases and business rules, which has proved invaluable in development. I’m often the go-to person when it comes to legacy knowledge and data structure insights.
+                    This journey from support to development has been both rewarding and transformative, and I’m excited to continue learning and taking on whatever challenges come next.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="freelance" class="freelance-section py-5" style="background-color: #e8e3df;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-lg-8">
+                <h2 class="fw-bold mb-4">Freelance Work</h2>
+                <p class="text-muted mb-5">Placeholder</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section id="contact" class="contact-section py-5" style="background-color: #f4f1ee;">
+    <div class="container">
+        <h2 class="fw-bold mb-5 text-center">Contact Me</h2>
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="d-flex justify-content-center pt-4">
+                    <div style="max-width: 600px; width: 100%;">
+                        <EditForm Model="@contactRequest" OnValidSubmit="HandleValidSubmit" FormName="ContactForm">
+                            <DataAnnotationsValidator />
+                            <ValidationSummary />
+                            <div class="p-4">
+                                <div class="mb-3">
+                                    <label for="name" class="form-label">Name</label>
+                                    <InputText id="name" class="form-control" @bind-Value="contactRequest.Name"  />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label for="email" class="form-label">Email</label>
+                                    <InputText id="email" class="form-control" inputmode="email" @bind-Value="contactRequest.Email" />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label for="message" class="form-label">Message</label>
+                                    <InputTextArea id="message" class="form-control" rows="5" @bind-Value="contactRequest.Message" />
+                                </div>
+
+                                <button type="submit" class="btn btn-primary">Send Message</button>
+
+                                @if (isSuccess.HasValue)
+                                {
+                                    <div class="mt-3 alert @(isSuccess.Value ? "alert-success" : "alert-danger")">
+                                        @(isSuccess.Value ? "Message sent successfully!" : "Something went wrong. Please try again.")
+                                    </div>
+                                }
+                            </div>
+                        </EditForm>
+                    </div>
+                </div>
+                <div class="text-center mt-4">
+                    <div class="d-flex justify-content-center flex-wrap gap-3">
+                        <!-- LinkedIn Button -->
+                        <a href="https://www.linkedin.com/in/lewis-paine-2486a3172/"
+                           target="_blank"
+                           rel="noopener noreferrer"
+                           class="btn btn-outline-secondary d-inline-flex align-items-center">
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+                                 alt="LinkedIn"
+                                 width="24"
+                                 height="24"
+                                 class="me-2">
+                            Connect on LinkedIn
+                        </a>
+
+                        <!-- CV Download Buttons -->
+                        <a href="files/lewis-paine-cv.pdf"
+                           download
+                           class="btn btn-outline-secondary d-inline-flex align-items-center">
+                            <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png"
+                                 alt="CV PDF"
+                                 width="24"
+                                 height="24"
+                                 class="me-2">
+                            Download CV (PDF)
+                        </a>
+
+                        <a href="files/lewis-paine-cv.docx"
+                           download
+                           class="btn btn-outline-secondary d-inline-flex align-items-center">
+                            <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png"
+                                 alt="CV Word"
+                                 width="24"
+                                 height="24"
+                                 class="me-2">
+                            Download CV (Word)
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="py-3 text-center text-muted" style="background-color: #3a4a4f;">
+    <div class="container">
+        <small>© 2025 Lewis Paine. All rights reserved.</small>
+    </div>
+</footer>
