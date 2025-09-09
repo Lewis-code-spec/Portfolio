@@ -1,0 +1,28 @@
+# Visual Studio / IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+out/
+Debug/
+Release/
+dist/
+build/
+
+# Dependency folders
+node_modules/
+packages/
+
+# Logs
+*.log
+
+# Secrets (never commit these!)
+*.env
+secrets.json
+local.settings.json
