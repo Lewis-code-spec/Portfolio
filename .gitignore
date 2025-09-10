@@ -1,0 +1,14 @@
+.vs/
+.vscode/
+bin/
+obj/
+dist/
+build/
+node_modules/
+packages/
+*.log
+appsettings.Development.json
+appsettings.*.local.json
+local.settings.json
+*.env
+secrets.json
