@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dazze\\source\\repos\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6E857E03-A111-4FF9-BD23-8E663D719B9A}|Portfolio\\Portfolio.Client\\Portfolio.Client.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E857E03-A111-4FF9-BD23-8E663D719B9A}|Portfolio\\Portfolio.Client\\Portfolio.Client.csproj|solutionrelative:portfolio\\portfolio.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{010193F7-44C9-42BE-B3A6-5DF36FB2E5FC}|MyPortfolio.Api\\Portfolio.Api.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\myportfolio.api\\myportfolio.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{010193F7-44C9-42BE-B3A6-5DF36FB2E5FC}|MyPortfolio.Api\\Portfolio.Api.csproj|solutionrelative:myportfolio.api\\myportfolio.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,8 +86,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio.Client\\Program.cs",
+              "RelativeToolTip": "Portfolio\\Portfolio.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:29:23.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyPortfolio.Api.http",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\MyPortfolio.Api\\MyPortfolio.Api.http",
+              "RelativeDocumentMoniker": "MyPortfolio.Api\\MyPortfolio.Api.http",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\MyPortfolio.Api\\MyPortfolio.Api.http",
+              "RelativeToolTip": "MyPortfolio.Api\\MyPortfolio.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-10T17:52:19.029Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -134,8 +160,7 @@
               "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAHMAAAAAAAAAAAAAAK4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T19:38:36.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T19:38:36.904Z"
             },
             {
               "$type": "Document",
@@ -220,32 +245,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-16T19:48:07.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\appsettings.json",
-              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\appsettings.json",
-              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\appsettings.json",
-              "RelativeToolTip": "Portfolio\\Portfolio\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-10T20:46:20.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\appsettings.Development.json",
-              "RelativeToolTip": "Portfolio\\Portfolio\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-10T20:46:19.245Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",

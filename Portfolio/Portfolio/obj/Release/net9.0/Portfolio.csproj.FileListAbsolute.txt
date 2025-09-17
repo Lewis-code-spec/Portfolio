@@ -132,3 +132,4 @@ C:\Users\dazze\source\repos\Portfolio\Portfolio\Portfolio\obj\Release\net9.0\Por
 C:\Users\dazze\source\repos\Portfolio\Portfolio\Portfolio\obj\Release\net9.0\Portfolio.genruntimeconfig.cache
 C:\Users\dazze\source\repos\Portfolio\Portfolio\Portfolio\obj\Release\net9.0\ref\Portfolio.dll
 C:\Users\dazze\source\repos\Portfolio\Portfolio\Portfolio\obj\Release\net9.0\compressed\r0hgljsl91-4wro54zbih.gz
+C:\Users\dazze\source\repos\Portfolio\Portfolio\Portfolio\obj\Release\net9.0\Portfolio.sourcelink.json

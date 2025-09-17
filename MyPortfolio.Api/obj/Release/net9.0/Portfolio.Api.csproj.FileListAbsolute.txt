@@ -26,10 +26,10 @@ C:\Users\dazze\source\repos\Portfolio\MyPortfolio.Api\obj\Release\net9.0\staticw
 C:\Users\dazze\source\repos\Portfolio\MyPortfolio.Api\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.Portfolio.Api.props
 C:\Users\dazze\source\repos\Portfolio\MyPortfolio.Api\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.Portfolio.Api.props
 C:\Users\dazze\source\repos\Portfolio\MyPortfolio.Api\obj\Release\net9.0\staticwebassets.pack.json
-C:\Users\dazze\source\repos\Portfolio\MyPortfolio.Api\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\dazze\source\repos\Portfolio\MyPortfolio.Api\obj\Release\net9.0\Portfoli.7273ABDC.Up2Date
 C:\Users\dazze\source\repos\Portfolio\MyPortfolio.Api\obj\Release\net9.0\Portfolio.Api.dll
 C:\Users\dazze\source\repos\Portfolio\MyPortfolio.Api\obj\Release\net9.0\refint\Portfolio.Api.dll
 C:\Users\dazze\source\repos\Portfolio\MyPortfolio.Api\obj\Release\net9.0\Portfolio.Api.pdb
 C:\Users\dazze\source\repos\Portfolio\MyPortfolio.Api\obj\Release\net9.0\Portfolio.Api.genruntimeconfig.cache
 C:\Users\dazze\source\repos\Portfolio\MyPortfolio.Api\obj\Release\net9.0\ref\Portfolio.Api.dll
+C:\Users\dazze\source\repos\Portfolio\MyPortfolio.Api\obj\Release\net9.0\Portfolio.Api.sourcelink.json

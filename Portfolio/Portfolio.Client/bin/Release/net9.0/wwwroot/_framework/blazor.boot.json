@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Portfolio.Client",
   "resources": {
-    "hash": "sha256-+z6xdwkMcWnZGskKLXbChM/He1hH51Tb+pNm8FwU/Wg=",
+    "hash": "sha256-YflBYIbCallUv72B3Lp1ieYYiErS/Jf0p+JyCQsHOV4=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.da83xzpz5r.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.vmzb2angnn.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -204,8 +204,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Portfolio.Client.p5aqu7xqmy.wasm": "Portfolio.Client.wasm",
-      "Portfolio.Client.att3cru8zs.pdb": "Portfolio.Client.pdb"
+      "Portfolio.Client.fhpe02rpgi.wasm": "Portfolio.Client.wasm",
+      "Portfolio.Client.ynjev2mpkf.pdb": "Portfolio.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.1p93gcv9fh.js": "sha256-1UPiprzN3JhPftx3be7XEMaYlUN+chRF41CuttiWVtQ="
@@ -418,17 +418,16 @@
       "WindowsBase.ag32297siy.wasm": "sha256-BgyZxTgdU9rIYlNC9ZMiMjnvBAJSL0eQH8Y87o1M+q4=",
       "mscorlib.vt9pwshhot.wasm": "sha256-/aFxOaPc1iTNlJw0z4/RGEMD0nzl4qVE3SF4wMsLgp0=",
       "netstandard.or41gtprh3.wasm": "sha256-nD1KqAI5YYz+YohqHaZ5EmXi7Eq9Uy9sUknnI8sj1AM=",
-      "Portfolio.Client.p5aqu7xqmy.wasm": "sha256-7Z+PdR6Gur4pxfn6z9F5LiAMY22epFkug0fdEKr7U9Y="
+      "Portfolio.Client.fhpe02rpgi.wasm": "sha256-fU/dzW6qAKWTD7nu4wZvLsW2KSFPIRx7z/uSBOxvpmk="
     },
     "pdb": {
-      "Portfolio.Client.att3cru8zs.pdb": "sha256-rnFeMyamFQgg0Fr5ntvdFWoWoVu1LWif/7W9oYnK+tY="
+      "Portfolio.Client.ynjev2mpkf.pdb": "sha256-DsK51QGZhJEyqJphgXYZKYCyWIl3Iho2R7zg0LQia7I="
     }
   },
   "cacheBootResources": true,
   "debugLevel": -1,
   "appsettings": [
-    "../appsettings.Development.json",
-    "../appsettings.json"
+    "../appsettings.Development.json"
   ],
   "globalizationMode": "sharded",
   "extensions": {

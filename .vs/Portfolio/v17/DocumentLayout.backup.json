@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\dazze\\source\\repos\\Portfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{010193F7-44C9-42BE-B3A6-5DF36FB2E5FC}|MyPortfolio.Api\\Portfolio.Api.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\myportfolio.api\\myportfolio.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{010193F7-44C9-42BE-B3A6-5DF36FB2E5FC}|MyPortfolio.Api\\Portfolio.Api.csproj|solutionrelative:myportfolio.api\\myportfolio.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -67,14 +71,6 @@
       "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|c:\\users\\dazze\\source\\repos\\portfolio\\portfolio\\portfolio\\models\\contactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7D33E0A-4F31-4822-964C-E2BDD91983AB}|Portfolio\\Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio\\models\\contactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -86,11 +82,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "MyPortfolio.Api.http",
+              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\MyPortfolio.Api\\MyPortfolio.Api.http",
+              "RelativeDocumentMoniker": "MyPortfolio.Api\\MyPortfolio.Api.http",
+              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\MyPortfolio.Api\\MyPortfolio.Api.http",
+              "RelativeToolTip": "MyPortfolio.Api\\MyPortfolio.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-10T17:52:19.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Error.razor",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\Error.razor",
@@ -102,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Contact.razor",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Contact.razor",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\Contact.razor",
@@ -114,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "About.razor",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\About.razor",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\About.razor",
@@ -126,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor",
@@ -134,12 +143,11 @@
               "RelativeToolTip": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAHMAAAAAAAAAAAAAAK4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T19:38:36.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T19:38:36.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Portfolio.Api.csproj",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\MyPortfolio.Api\\Portfolio.Api.csproj",
               "RelativeDocumentMoniker": "MyPortfolio.Api\\Portfolio.Api.csproj",
@@ -151,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\MyPortfolio.Api\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "MyPortfolio.Api\\Controllers\\ContactController.cs",
@@ -163,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "scripts.js",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\scripts.js",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\wwwroot\\scripts.js",
@@ -175,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\wwwroot\\app.css",
@@ -187,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Home.razor.css",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Home.razor.css",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor.css",
@@ -199,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Layout\\MainLayout.razor",
@@ -211,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Layout\\NavMenu.razor",
@@ -223,31 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\appsettings.json",
-              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\appsettings.json",
-              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\appsettings.json",
-              "RelativeToolTip": "Portfolio\\Portfolio\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-10T20:46:20.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Portfolio\\Portfolio\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\appsettings.Development.json",
-              "RelativeToolTip": "Portfolio\\Portfolio\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-10T20:46:19.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\App.razor",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\App.razor",
@@ -259,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Portfolio.csproj",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Portfolio.csproj",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Portfolio.csproj",
@@ -271,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Properties\\launchSettings.json",
@@ -283,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "ContactRequest.cs",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Models\\ContactRequest.cs",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Models\\ContactRequest.cs",
@@ -295,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Program.cs",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Program.cs",
@@ -307,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Home.razor.cs",
               "DocumentMoniker": "C:\\Users\\dazze\\source\\repos\\Portfolio\\Portfolio\\Portfolio\\Components\\Pages\\Home.razor.cs",
               "RelativeDocumentMoniker": "Portfolio\\Portfolio\\Components\\Pages\\Home.razor.cs",

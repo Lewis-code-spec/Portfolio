@@ -1,0 +1,1 @@
+C:\Users\dazze\source\repos\Portfolio\Portfolio\Portfolio.Client\wwwroot\appsettings.json
